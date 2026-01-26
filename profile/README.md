@@ -1,4 +1,4 @@
-# Joint Ops
+# JointOps
 
 **A crew that operates together and gets things done.**
 
