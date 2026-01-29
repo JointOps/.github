@@ -15,7 +15,7 @@ We're a developer collective building fast-paced, scalable technologies. We deve
 ## Our Packages
 
 - **[BunWay](https://github.com/jointops/bunway)** — Express-style router for Bun
-- **[HitLimit](https://github.com/jointops/hitlimit)** — Rate limiting in one line
+- **[HitLimit](https://github.com/jointops/hitlimit-monorepo)** — Rate limiting in one line
 
 ## Our Products
 
@@ -24,7 +24,8 @@ We're a developer collective building fast-paced, scalable technologies. We deve
 ## The Team
 
 - [@sultandilaram](https://github.com/sultandilaram) — Blockchain & Backend
-- [@shayanhussain](https://github.com/shayanhussain) — Backend & Infrastructure  
+- [@shayanhussain](https://github.com/shayanhussain) — Backend & Infrastructure
+- [@tanveerkhan](https://github.com/tanv33) — Blockchain & Backend  
 - [@MuhammadRehanRasool](https://github.com/MuhammadRehanRasool) — Full-Stack & Data
 - [@rohitraja](https://github.com/rohitraja) — Sales & Operations
 
