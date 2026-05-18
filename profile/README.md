@@ -84,7 +84,7 @@ Every repo has a `CONTRIBUTING.md` with setup instructions. The easiest way to s
 [![npm](https://img.shields.io/badge/npm-%40joint--ops-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~joint-ops)
 [![Website](https://img.shields.io/badge/Website-jointops.dev-000000?style=flat-square)](https://jointops.dev)
 [![Email](https://img.shields.io/badge/Email-hello%40jointops.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@jointops.dev)
-
+[![Discussions](https://img.shields.io/badge/Discussions-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/JointOps/discussions)
 ---
 
 <sub>© 2025–2026 JointOps · MIT License · Building things that actually work.</sub>
